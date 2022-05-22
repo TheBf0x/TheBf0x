@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheBf0x
+- 👀 I’m interested in making programs usually whit no UI.
+- 🌱 I’m currently learning - swift and C++
+- 💞️ I’m not looking to collaborate.
+- 📫 How to reach me - my gmail is 0bloodyfox@gmail.com
